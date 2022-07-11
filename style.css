@@ -1,0 +1,16 @@
+body{
+    background:#dea;
+    margin: 10px ;
+    padding: 0;
+    width: 790px;
+    margin: auto;
+
+}
+div.container{
+    width: 770;
+    margin: 0;
+    text-align: left;
+}
+h1{
+    height: 200px;
+}
